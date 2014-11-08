@@ -1,0 +1,1 @@
+* hello\n  world\n\n  how\n  are\n* you\n\n\n\nbetter behavior:\n\n* hello\n  * world\n    how\n\n    are\n    you\n\n  * today\n* hi\n\n\n\n* hello\n\n* world\n* hi\n\n\n\n* hello\n* world\n\n* hi\n\n\n\n* hello\n* world\n\n  how\n* hi\n\n\n\n* hello\n* world\n* how\n\n  are\n\n\n\n* hello\n* world\n\n* how\n\n  are\n
